@@ -10,6 +10,16 @@ Firebase like reactive authentication store for user state and authentication to
 * Your own types for user and tokens
 * Uses local storage, and is extendable to use other storage options.
 
+# Installation
+
+```
+yarn add reactive-auth-store
+```
+
+```
+npm install --save reactive-auth-store
+```
+
 # General Usage
 
 ## Step 1: Create the `getStore` Function
