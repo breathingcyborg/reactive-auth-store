@@ -1,6 +1,6 @@
 {
   "name": "reactive-auth-store",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Firebase like reactive authentication store for user state and authentication tokens.",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
